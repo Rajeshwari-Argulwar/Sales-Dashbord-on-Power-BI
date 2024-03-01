@@ -26,4 +26,7 @@ Harness the power of advanced analytics to forecast future sales trends and pred
 **Customizable Reporting:**
 Tailor the dashboard to meet specific business requirements with customizable reporting features. Easily generate ad-hoc reports, export data for further analysis, and share insights with stakeholders to facilitate informed decision-making at all levels of the organization.
 
+**Dashboard:**
+![Dashboard](Dashboard.png)
+
 With its user-friendly interface, interactive visualizations, and powerful analytical capabilities, our Power BI dashboard empowers you to unlock the full potential of our sales data and drive actionable insights to propel our coffee shop chain to new heights of success.
